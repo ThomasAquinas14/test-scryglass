@@ -1,5 +1,6 @@
 #test
 #regno d'italia
+#l'aquila e lontana
 import os
 import json
 from pathlib import Path
