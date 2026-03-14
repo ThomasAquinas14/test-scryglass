@@ -6,6 +6,7 @@
 #l'etat? C'est moi!
 #in uns selbst allein leigt die zukunft des deutchen volkes
 #its 2 in the morning on march 15
+#i tried to test the bot but there was an error in embedding the proper gemini model
 import os
 import json
 from pathlib import Path
